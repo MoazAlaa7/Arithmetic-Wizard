@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\c++ projects\ArithmeticWizard\ArithmeticWizard\main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c++ projects\ArithmeticWizard\ArithmeticWizard\main.cpp(72,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ArithmeticWizard.vcxproj -> D:\c++ projects\ArithmeticWizard\x64\Debug\ArithmeticWizard.exe
