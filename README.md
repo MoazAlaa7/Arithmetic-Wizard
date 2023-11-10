@@ -1,2 +1,2 @@
 # Arithmetic-Wizard
-CAI program to practice Arithmetics
+CAI program to practice Arithmetic
